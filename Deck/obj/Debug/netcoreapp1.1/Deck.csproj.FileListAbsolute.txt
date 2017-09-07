@@ -1,0 +1,8 @@
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Deck/bin/Debug/netcoreapp1.1/Deck.deps.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Deck/bin/Debug/netcoreapp1.1/Deck.runtimeconfig.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Deck/bin/Debug/netcoreapp1.1/Deck.runtimeconfig.dev.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Deck/bin/Debug/netcoreapp1.1/Deck.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Deck/bin/Debug/netcoreapp1.1/Deck.pdb
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Deck/obj/Debug/netcoreapp1.1/Deck.AssemblyInfo.cs
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Deck/obj/Debug/netcoreapp1.1/Deck.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Deck/obj/Debug/netcoreapp1.1/Deck.pdb

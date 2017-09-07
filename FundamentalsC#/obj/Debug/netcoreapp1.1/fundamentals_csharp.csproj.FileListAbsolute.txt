@@ -1,0 +1,8 @@
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/fundamentals_csharp/bin/Debug/netcoreapp1.1/fundamentals_csharp.deps.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/fundamentals_csharp/bin/Debug/netcoreapp1.1/fundamentals_csharp.runtimeconfig.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/fundamentals_csharp/bin/Debug/netcoreapp1.1/fundamentals_csharp.runtimeconfig.dev.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/fundamentals_csharp/bin/Debug/netcoreapp1.1/fundamentals_csharp.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/fundamentals_csharp/bin/Debug/netcoreapp1.1/fundamentals_csharp.pdb
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/fundamentals_csharp/obj/Debug/netcoreapp1.1/fundamentals_csharp.AssemblyInfo.cs
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/fundamentals_csharp/obj/Debug/netcoreapp1.1/fundamentals_csharp.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/fundamentals_csharp/obj/Debug/netcoreapp1.1/fundamentals_csharp.pdb

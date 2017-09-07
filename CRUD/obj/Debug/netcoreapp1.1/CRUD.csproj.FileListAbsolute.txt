@@ -1,0 +1,8 @@
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/CRUD/bin/Debug/netcoreapp1.1/CRUD.deps.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/CRUD/bin/Debug/netcoreapp1.1/CRUD.runtimeconfig.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/CRUD/bin/Debug/netcoreapp1.1/CRUD.runtimeconfig.dev.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/CRUD/bin/Debug/netcoreapp1.1/CRUD.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/CRUD/bin/Debug/netcoreapp1.1/CRUD.pdb
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/CRUD/obj/Debug/netcoreapp1.1/CRUD.AssemblyInfo.cs
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/CRUD/obj/Debug/netcoreapp1.1/CRUD.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/CRUD/obj/Debug/netcoreapp1.1/CRUD.pdb

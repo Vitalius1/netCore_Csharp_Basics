@@ -1,0 +1,8 @@
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/collections_practice_csharp/bin/Debug/netcoreapp1.1/collections_practice_csharp.deps.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/collections_practice_csharp/bin/Debug/netcoreapp1.1/collections_practice_csharp.runtimeconfig.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/collections_practice_csharp/bin/Debug/netcoreapp1.1/collections_practice_csharp.runtimeconfig.dev.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/collections_practice_csharp/bin/Debug/netcoreapp1.1/collections_practice_csharp.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/collections_practice_csharp/bin/Debug/netcoreapp1.1/collections_practice_csharp.pdb
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/collections_practice_csharp/obj/Debug/netcoreapp1.1/collections_practice_csharp.AssemblyInfo.cs
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/collections_practice_csharp/obj/Debug/netcoreapp1.1/collections_practice_csharp.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/collections_practice_csharp/obj/Debug/netcoreapp1.1/collections_practice_csharp.pdb

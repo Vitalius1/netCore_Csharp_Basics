@@ -1,0 +1,8 @@
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Classes/bin/Debug/netcoreapp1.1/Classes.deps.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Classes/bin/Debug/netcoreapp1.1/Classes.runtimeconfig.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Classes/bin/Debug/netcoreapp1.1/Classes.runtimeconfig.dev.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Classes/bin/Debug/netcoreapp1.1/Classes.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Classes/bin/Debug/netcoreapp1.1/Classes.pdb
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Classes/obj/Debug/netcoreapp1.1/Classes.AssemblyInfo.cs
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Classes/obj/Debug/netcoreapp1.1/Classes.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/C#/Classes/obj/Debug/netcoreapp1.1/Classes.pdb
